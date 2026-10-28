@@ -1,0 +1,5 @@
+ipykernel
+python-dotenv
+openai-agents
+pydantic
+gradio
